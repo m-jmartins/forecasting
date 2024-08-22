@@ -12,7 +12,7 @@ Para regular o período que deseja-se ter o output da previsão, altere os valor
 
 Existem duas versões do código: previsao-v3.ipynb e script.py. A primeira versão é utilizada para testes e estudos da modelagem enquanto a segunda para a execução do modelo de forma mais prática.
 
-Para executar em previsao-v3.ipynb:
+Para executar em previsao-v3.ipynb (código mais atual):
 - Selecione todas as células (Ctrl + a) e execute o código (Ctrl + enter). 
 
 Para executar o script.py:
